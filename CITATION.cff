@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: CascadedSensing
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Gregory Krueper
+    email: gregory.krueper@colorado.edu
+    affiliation: 'University of Colorado, Boulder'
+  - given-names: Lior Cohen
+    email: lior.cohen@colorado.edu
+    affiliation: University of Colorado Boulder
+    orcid: 'https://orcid.org/0000-0001-5236-9932'
+  - given-names: Juliet T Gopinath
+    email: julietg@colorado.edu
+    affiliation: University of Colorado Boulder
+    orcid: 'https://orcid.org/0000-0003-2387-5371'
+repository-code: 'https://github.com/g-krueper/CascadedSensing'
+license: GPL-3.0
+version: '1.0'
+date-released: '2024-02-06'
